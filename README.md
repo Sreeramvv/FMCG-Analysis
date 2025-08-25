@@ -39,6 +39,10 @@ The main objective was to **clean, analyze, and visualize business performance**
   - Data cleaning
   - Advanced formulas (INDEX MATCH, Nested IF)
   - Pivot tables & slicers
-  - Dashboard creation  
-
+  - Dashboard creation
+    
 ---
+![image](https://github.com/Sreeramvv/FMCG-Analysis/blob/main/Sales%20dashboard.png)
+![image](https://github.com/Sreeramvv/FMCG-Analysis/blob/main/Profit%20dashboard.png)
+
+
